@@ -70,6 +70,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/felixashong"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="felixashong" /></a></p><br><br>
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -97,14 +103,11 @@
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=felixashong&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-<!--- trophy (start) -->
+<!--- trophy (END) -->
 
 
 </p>        
 <!--- stats (end) -->
-<!--profile visit count-->
-<div align="center">
-[![](https://visitcount.itsvg.in/api?id=felixashong&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
@@ -112,7 +115,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [PHLEO-DELLY](https://github.com/felixashong)
+
 
 
 
