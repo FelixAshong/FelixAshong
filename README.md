@@ -225,8 +225,7 @@ fw6
 <h3 align="left">Achievements:</h3>
 
 [![An image of @felixashong's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/felixashong)](https://holopin.io/@felixashong)
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<br><br>
 
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
