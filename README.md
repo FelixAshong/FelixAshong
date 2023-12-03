@@ -148,6 +148,11 @@
   
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social)](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
+[<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/felixashong?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social">](https://github.com/felixashong?tab=repositories&q=&type=&language=&sort=stargazers)
+[<img alt="GitHub followers" src="https://img.shields.io/github/followers/Aleksey-Voko?&logoColor=red&style=social">](https://github.com/felixashong?tab=followers)
+[<img alt="GitHub forks" src="https://img.shields.io/github/forks/felixashong/TranslatorSelenium?logoColor=red&style=social">](https://github.com/Aleksey-Voko/TranslatorSelenium/network/members)
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
