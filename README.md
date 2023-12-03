@@ -1,4 +1,5 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![Web Developer](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
+
 <h1 align="center">Hi 👋, I'm Phleo Delly</h1>
 <h3 align="center">A passionate frontend developer from Ghana</h3>
 <img align="right'' alt="coding" width="400" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
