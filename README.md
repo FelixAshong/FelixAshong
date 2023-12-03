@@ -117,9 +117,9 @@
        alt="snake" /></a>
 </div>
 
-<h3 align="center" >### ✍️Random Dev Quote
+<h3 align="center" >### ✍️Random Dev Quote</h3>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-</h3>
+
 ---
 
 
