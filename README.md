@@ -1,6 +1,7 @@
 ![Web Developer](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 
-<h1 align="center"><b>Hi , I'm Phleo Delly </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>![terminal](https://github.com/FelixAshong/FelixAshong/blob/main/assets/eb6defc2-8b2f-45b0-bc5a-bcae9212d1d3.gif)
+<h1 align="center"><b>Hi , I'm Phleo Delly </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+![terminal](file:///C:/Users/phleo/OneDrive/Pictures/Camera%20Roll/terminal.gif)
 
 
 <!--  -->
