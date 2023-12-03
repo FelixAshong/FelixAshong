@@ -18,15 +18,15 @@
 
 - 🔭 I’m currently working on **UG TUBE**
 
-- 🌱 I’m currently learning **UI/UX**
+- 🌱 I’m currently learning **UI/UX ,Back-End**
 
-- 👯 I’m looking to collaborate on **Front and Full Stack Developers**
+- 👯 I’m looking to collaborate and mastering  **Full Stack Development**
 
 - 🤝 I’m looking for help with **Backend Shark**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/felix-ashong](https://www.linkedin.com/in/felix-ashong)
+- 👨‍💻 All of my projects are available at [404)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **MY GOALS**
 
 - 📫 How to reach me **felixashong4@gmail.com**
 
