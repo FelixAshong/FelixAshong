@@ -222,6 +222,12 @@ fw6
 ![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=felixashong&custom_title=Phleo%20Delly's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
+<h3 align="left">Achievements:</h3>
+
+[![An image of @felixashong's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/felixashong)](https://holopin.io/@felixashong)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
