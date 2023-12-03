@@ -112,7 +112,7 @@ fw6
 <br><br><br><br><br><br><br>
 <div id="user-content-toc">
   <ul align="center">
-   ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px" <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+<img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> <h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
   </ul>
 </div>
 <!--tech stack icons-->
