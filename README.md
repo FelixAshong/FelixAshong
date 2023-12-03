@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Phleo Delly</h1>
 <h3 align="center">A passionate frontend developer from Ghana</h3>
-<img align="right'' alt="coding" width="400" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
+<img align="right'' alt="coding" width="400" src="https://www.horizont.com.hr/posao/frontend-developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixashong&label=Profile%20views&color=0e75b6&style=flat" alt="felixashong" /> </p>
 
