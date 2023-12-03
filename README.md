@@ -1,3 +1,7 @@
+<a href="https://komarev.com/ghpvc/?username=felixashong">
+  <img align="right" src="https://komarev.com/ghpvc/?username=felixashong&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
 ![Web Developer](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 
 <h1 align="center"><b>Hi , I'm Phleo Delly </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
