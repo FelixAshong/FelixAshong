@@ -117,6 +117,13 @@
        alt="snake" /></a>
 </div>
 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+
+
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
