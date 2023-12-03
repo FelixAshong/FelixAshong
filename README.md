@@ -95,14 +95,6 @@ fw6
 	<a href="https://msng.link/o/?phleo_delly=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
 </p>
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felixashong&label=Profile%20views&color=0e75b6&style=flat" alt="felixashong" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felixashong" alt="felixashong" /></a> </p>
-
 <br>   
     
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
