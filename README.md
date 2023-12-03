@@ -29,7 +29,7 @@
 
 - ⚡ Fun fact **I am a social and an opened person**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="left">
 <a href="https://twitter.com/phleodelly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phleodelly" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/felixashong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felixashong" height="30" width="40" /></a>
@@ -45,6 +45,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixashong&label=Profile%20views&color=0e75b6&style=flat" alt="felixashong" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felixashong" alt="felixashong" /></a> </p>
+
+<br>   
+    
+- **Front-End Development**:
+
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 <h3 align="left">Languages and Tools:</h3>
