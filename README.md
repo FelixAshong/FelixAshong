@@ -12,9 +12,11 @@
 <h3 align="center">A passionate Front-End Developer from Ghana</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of Information Technology allowed me to consider studying Web and App Developmemt and striving hard to studying software development and engineering too, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 
-<p align="center">
-  <a href="https://phleodelly.onrender.com/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; font-size: 16px;">Check out my portfolio</a>
-</p>
+ <p align="center">
+    <a href="https://phleodelly.onrender.com/" target="_blank" style="display: inline-block; background-color: #4CAF50; padding: 10px; border-radius: 5px; color: white; text-decoration: none; font-size: 16px;">
+      <i class="fas fa-laptop-code"></i> Check out my portfolio
+    </a>
+  </p>
 
 
 <p align="center">
