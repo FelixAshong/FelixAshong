@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blue?style=flat&logo=appveyor" alt="Portfolio">
   </a>
 </p>
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blue?style=flat&logo=appveyor)](https://phleodelly.onrender.com/)
+
 
 
 
