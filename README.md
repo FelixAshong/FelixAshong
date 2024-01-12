@@ -12,11 +12,17 @@
 <h3 align="center">A passionate Front-End Developer from Ghana</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of Information Technology allowed me to consider studying Web and App Developmemt and striving hard to studying software development and engineering too, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 
- <p align="center">
-    <a href="https://phleodelly.onrender.com/" target="_blank" style="display: inline-block; background-color: #4CAF50; padding: 10px; border-radius: 5px; color: white; text-decoration: none; font-size: 16px;">
-      <i class="fas fa-laptop-code"></i> Check out my portfolio
-    </a>
-  </p>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-K1qHZF1b9eBP6oh2lckXw90KGBvf6lIwgh8AH4e1pQEeFwshZlcFFX2FYd9MufI2VWgWGbOm5sU6eTQQnzPQ+A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<!-- Your existing code... -->
+
+<h3 align="center">A passionate Front-End Developer from Ghana</h3>
+<p align="center">
+  <a href="https://phleodelly.onrender.com/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; font-size: 16px;">
+    <i class="fas fa-laptop-code" style="margin-right: 8px;"></i> <!-- Font Awesome icon for a laptop/code -->
+    Check out my portfolio
+  </a>
+</p>
 
 
 <p align="center">
