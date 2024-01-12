@@ -12,6 +12,9 @@
 <h3 align="center">A passionate Front-End Developer from Ghana</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of Information Technology allowed me to consider studying Web and App Developmemt and striving hard to studying software development and engineering too, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 
+<p align="center">Check out my portfolio: <a href="https://phleodelly.onrender.com/" target="_blank">https://phleodelly.onrender.com/</a></p>
+
+
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
