@@ -67,7 +67,7 @@ fw2((NextJs))
 fw3((Bootstrap))
 fw4((tailwind))
 fw5((Scss))
-fw6((mermaid))
+fw6((Angular))
 b1{NodeJs}
 b2{RestAPIs}
 b3{PHP}
