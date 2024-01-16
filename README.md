@@ -35,17 +35,17 @@
 
 
 
-- 🔭 I’m currently working on **UG TUBE**
+- 🔭 I’m currently working on **A Huge Project**
 
-- 🌱 I’m currently learning **UI/UX ,Back-End**
+- 🌱 I’m currently learning **UI/UX ,Back-End,Hacking,AI/ML,Python**
 
-- 👯 I’m looking to collaborate and mastering  **Full Stack Development**
+- 👯 I’m looking to collaborate with  **Full Stack Developers,Front and Back End Dev and Others**
 
-- 🤝 I’m looking for help with **Backend Shark**
+- 🤝 I’m looking for help with **My Project and Sposors**
 
-- 👨‍💻 All of my projects are available at [404)
+- 👨‍💻 All of my projects are available at [404]
 
-- 💬 Ask me about **MY GOALS**
+- 💬 Ask me about **MY GOALS and AIMS**
 
 - 📫 How to reach me **felixashong4@gmail.com**
 
@@ -61,7 +61,7 @@ flowchart
 f1[HTML]
 f2[Css]
 f3[javaScpit]
-f4[ReactNative]
+f4[ Vue]
 fw1((ReactJs))
 fw2((NextJs))
 fw3((Bootstrap))
