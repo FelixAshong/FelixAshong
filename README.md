@@ -1,8 +1,10 @@
 <a href="https://komarev.com/ghpvc/?username=felixashong">
   <img align="right" src="https://komarev.com/ghpvc/?username=felixashong&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
+![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
+<!-- <h1 align="center">Hi 👋, I'm Mayuresh Bailurkar</h1> -->
+<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Phleo+Delly;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
 
-![Web Developer](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 
 <h1 align="center"><b>Hi , I'm Phleo Delly </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
