@@ -119,7 +119,7 @@ fw6
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/MPY7CJG/2048-removebg.png" height="500"/>
+<img src="https://i.ibb.co/6D3FWq1/2048-removebg.png" alt="2048-removebg" border="0" />
 </p>
 
 <br>   
