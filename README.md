@@ -119,7 +119,7 @@ fw6
 </p>
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1q_aezQlTwS9-G6fWoTWuXFqq79fmt2fa/view?usp=sharing" alt="MasterHead">
+  <img src="https://ibb.co/frhHxTn" alt="MasterHead">
 </p>
 
 <br>   
