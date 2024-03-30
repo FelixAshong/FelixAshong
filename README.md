@@ -118,6 +118,10 @@ fw6
 	<a href="https://msng.link/o/?phleo_delly=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
 </p>
 
+<p align="center">
+  <img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/D7C5087B-1B34-4F0B-BAC9-E0234944A2C8/2048.jpeg" alt="MasterHead">
+</p>
+
 <br>   
 
 <img alt="Night Coding" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300px" height="300px" align="right"/>
