@@ -119,7 +119,7 @@ fw6
 </p>
 
 <p align="center">
-  <img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/D7C5087B-1B34-4F0B-BAC9-E0234944A2C8/2048.jpeg" alt="MasterHead">
+  <img src="https://drive.google.com/file/d/1q_aezQlTwS9-G6fWoTWuXFqq79fmt2fa/view?usp=sharing" alt="MasterHead">
 </p>
 
 <br>   
