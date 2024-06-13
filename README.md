@@ -39,21 +39,19 @@
 
 
 
-- 🔭 I’m currently working on **A Huge Project**
+- 🔭 I’m currently working on **OKADA RIDE**
 
-- 🌱 I’m currently learning **UI/UX ,Back-End,Hacking,AI/ML,Python**
+- 🌱 I’m currently learning **UI/UX ,Full-Stack Web development,AI/ML,Python**
 
-- 👯 I’m looking to collaborate with  **Full Stack Developers,Front and Back End Dev and Others**
+- 👯 I’m looking to collaborate with  **Other Developers**
 
-- 🤝 I’m looking for help with **My Project and Sposors**
+- 🤝 I’m looking for help with **My Project and Sponsors**
 
-- 👨‍💻 All of my projects are available at [404]
-
-- 💬 Ask me about **MY GOALS and AIMS**
+- 👨‍💻 All of my projects are available at Repository
 
 - 📫 How to reach me **felixashong4@gmail.com**
 
-- 📄 Know about my experiences [none](none)
+- 📄 Know about my experiences [portfolio](https://phleodelly.netlify.app/)
 
 - ⚡ Fun fact **I am a social and an opened person**
 
