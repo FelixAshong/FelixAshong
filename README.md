@@ -186,8 +186,9 @@ fw6
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FelixAshong&limit=5&theme=dark&combine_all_yearly_contributions=true&align="center" )
-
+<p align="center">
+  <iframe src="https://github-contributor-stats.vercel.app/api?username=FelixAshong&limit=5&theme=dark&combine_all_yearly_contributions=true" width="600" height="200" frameborder="0"></iframe>
+</p>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
