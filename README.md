@@ -139,7 +139,7 @@ fw6
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,figma,firebase,github,html,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,react,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,figma,firebase,github,html,java,js,linux,md,materialui,mysql,nodejs,react,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
