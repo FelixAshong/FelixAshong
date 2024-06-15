@@ -186,9 +186,9 @@ fw6
 ---
 
 ### 🔝 Top Contributed Repo
-<p align="center">
-  <iframe src="https://github-contributor-stats.vercel.app/api?username=FelixAshong&limit=5&theme=dark&combine_all_yearly_contributions=true" width="600" height="200" frameborder="0"></iframe>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=FelixAshong&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -231,7 +231,7 @@ fw6
   </a>
 </p>
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=felixashong&custom_title=Phleo%20Delly's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![delly's Graph](https://github-readme-activity-graph.vercel.app/graph?username=felixashong&custom_title=Phleo%20Delly's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
