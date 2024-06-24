@@ -72,7 +72,7 @@ fw5((Scss))
 fw6((Angular))
 b1{NodeJs}
 b2{RestAPIs}
-b3{PHP}
+b3{MySql}
  subgraph  BackEnd
 b1
 b2
