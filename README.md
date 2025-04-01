@@ -61,24 +61,24 @@
 ```mermaid
 flowchart 
 f1[HTML]
-f2[Css]
-f3[javaScpit]
-f4[ Vue]
-fw1((ReactJs))
-fw2((NextJs))
-fw3((Bootstrap))
-fw4((tailwind))
-fw5((Scss))
-fw6((Angular))
-b1{NodeJs}
-b2{RestAPIs}
-b3{MySql}
- subgraph  BackEnd
+f2[CSS]
+f3[JavaScript]
+f4[TypeScript]
+fw1((React))
+fw2((Next.js))
+fw3((Tailwind CSS))
+fw4((SvelteKit))
+fw5((Shadcn/UI))
+fw6((Vite))
+b1{Node.js}
+b2{REST APIs}
+b3{PostgreSQL}
+ subgraph BackEnd
 b1
 b2
 b3
  end  
- subgraph Framworks 
+ subgraph Frameworks 
 fw1
 fw2
 fw3
@@ -86,7 +86,7 @@ fw4
 fw5
 fw6
  end
-  subgraph  FrontEnd 
+ subgraph FrontEnd 
  f1
  f2
  f3
@@ -94,15 +94,16 @@ fw6
  end  
  f1 --o f2
  f1 --o f3
- f1 --o f4
  f2 --> fw3
- f2 --> fw4
- f2 --> fw5
+ f3 --o f4
  f3 --o fw1
- f3 --o fw2
+ f4 --> fw2
+ f4 --> fw4
+ f2 --> fw5
+ f3 --> fw6
  fw2 --o b1
- f4 --> fw6
  b1 --o b2
+ b2 --o b3
  ```
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
