@@ -2,7 +2,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=felixashong&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 <p align="center">
-  <img src="https://i.postimg.cc/TYtwnmcW/Beige-Brown-Modern-Social-Media-Specialist-Linked-In-Banner.gif" alt="MasterHead">
+  <img src="https://jumpshare.com/share/CxvRDPhFRYlLXro6yoPn" alt="MasterHead">
 </p>
 <!-- <h1 align="center">Hi 👋, I'm Phleo Delly</h1> -->
 <img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Phleo+Delly;A+Front-End+|+Full Stack+Web Developer👨🏻‍💻;" style="width: 100%;">
