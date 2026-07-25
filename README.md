@@ -51,7 +51,7 @@
 
 - 📫 How to reach me **phleodelly@gmail.com**
 
-- 📄 Know about my experiences [portfolio](https://delly-portfolio-v3.onrender.com/)
+- 🌐 Visit my [Portfolio](https://felix-ashong.vercel.app/) to view projects, skills, and experience
 
 - ⚡ Fun fact **I am a social and an opened person**
 
