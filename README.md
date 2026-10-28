@@ -48,10 +48,12 @@ Watching technology 🌐 reshape everyday life in ways nobody predicted is what 
 | 🌐 **[Personal Portfolio](https://felix-ashong.vercel.app/)** | My projects, skills and experience in one place | Next.js · Tailwind CSS · Vercel |
 
 <p align="center">
-  <a href="https://github.com/FelixAshong/StudentResourceTracker-c-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelixAshong&repo=StudentResourceTracker-c-&theme=tokyonight&hide_border=true" alt="StudentResourceTracker" /></a>
-  <a href="https://github.com/FelixAshong/jobboard_platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelixAshong&repo=jobboard_platform&theme=tokyonight&hide_border=true" alt="Job board platform" /></a>
-  <a href="https://github.com/FelixAshong/ellys-ecommerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelixAshong&repo=ellys-ecommerce&theme=tokyonight&hide_border=true" alt="Elly's e-commerce" /></a>
-  <a href="https://github.com/FelixAshong/BLVCK-SAPPHIRE-FINAL-TASK"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelixAshong&repo=BLVCK-SAPPHIRE-FINAL-TASK&theme=tokyonight&hide_border=true" alt="XCUXION landing page" /></a>
+<!-- FEATURED:START (auto-updated by .github/scripts/update-featured.sh) -->
+  <a href="https://github.com/FelixAshong/StudentResourceTracker-c-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelixAshong&repo=StudentResourceTracker-c-&theme=tokyonight&hide_border=true" alt="StudentResourceTracker-c-" /></a>
+  <a href="https://github.com/FelixAshong/Techassure"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelixAshong&repo=Techassure&theme=tokyonight&hide_border=true" alt="Techassure" /></a>
+  <a href="https://github.com/FelixAshong/NGO-foundation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelixAshong&repo=NGO-foundation&theme=tokyonight&hide_border=true" alt="NGO-foundation" /></a>
+  <a href="https://github.com/FelixAshong/Automated-Email-Outreach"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelixAshong&repo=Automated-Email-Outreach&theme=tokyonight&hide_border=true" alt="Automated-Email-Outreach" /></a>
+<!-- FEATURED:END -->
 </p>
 
 > 👉 More on my [portfolio](https://felix-ashong.vercel.app/) and in my [repositories](https://github.com/FelixAshong?tab=repositories).
