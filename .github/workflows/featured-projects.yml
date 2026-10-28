@@ -15,15 +15,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Rewrite featured repo cards
-        run: bash .github/scripts/update-featured.sh
+      - name: Redraw featured repo cards
+        run: node .github/scripts/update-featured.mjs
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # The default GITHUB_TOKEN can't see other private repos, so this needs a
+          # personal token with read-only Metadata access to all your repositories.
+          GH_TOKEN: ${{ secrets.FEATURED_TOKEN }}
 
       - name: Commit if changed
         run: |
-          git diff --quiet README.md && exit 0
+          git add README.md assets/featured
+          git diff --cached --quiet && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "Update featured projects"
+          git commit -m "Update featured projects"
           git push

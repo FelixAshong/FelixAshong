@@ -48,11 +48,11 @@ Watching technology 🌐 reshape everyday life in ways nobody predicted is what 
 | 🌐 **[Personal Portfolio](https://felix-ashong.vercel.app/)** | My projects, skills and experience in one place | Next.js · Tailwind CSS · Vercel |
 
 <p align="center">
-<!-- FEATURED:START (auto-updated by .github/scripts/update-featured.sh) -->
-  <a href="https://github.com/FelixAshong/StudentResourceTracker-c-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelixAshong&repo=StudentResourceTracker-c-&theme=tokyonight&hide_border=true" alt="StudentResourceTracker-c-" /></a>
-  <a href="https://github.com/FelixAshong/Techassure"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelixAshong&repo=Techassure&theme=tokyonight&hide_border=true" alt="Techassure" /></a>
-  <a href="https://github.com/FelixAshong/NGO-foundation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelixAshong&repo=NGO-foundation&theme=tokyonight&hide_border=true" alt="NGO-foundation" /></a>
-  <a href="https://github.com/FelixAshong/Automated-Email-Outreach"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelixAshong&repo=Automated-Email-Outreach&theme=tokyonight&hide_border=true" alt="Automated-Email-Outreach" /></a>
+<!-- FEATURED:START (auto-updated by .github/scripts/update-featured.mjs) -->
+  <a href="https://hmtrends.vercel.app"><img src="assets/featured/1.svg" width="400" alt="HM-TRENDS" /></a>
+  <a href="https://www.ghanajollof.ca/"><img src="assets/featured/2.svg" width="400" alt="Ghana-Jollof-WebApp" /></a>
+  <a href="https://www.spcairportservices.com/"><img src="assets/featured/3.svg" width="400" alt="SPC-Airport-Services" /></a>
+  <a href="https://felixashong.vercel.app/"><img src="assets/featured/4.svg" width="400" alt="Delly-Portfolio-v3" /></a>
 <!-- FEATURED:END -->
 </p>
 
