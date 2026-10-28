@@ -13,11 +13,13 @@
   <a href="https://felix-ashong.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-felix--ashong.vercel.app-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:phleodelly@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-Available-2ea44f?style=for-the-badge&logo=gmail&logoColor=white" alt="Available for hire" /></a>
   <img src="https://komarev.com/ghpvc/?username=felixashong&label=Profile%20views&color=7f3fbf&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/FelixAshong?tab=followers"><img src="https://img.shields.io/github/followers/FelixAshong?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="Followers" /></a>
+  <a href="https://github.com/FelixAshong?tab=repositories"><img src="https://img.shields.io/github/stars/FelixAshong?affiliations=OWNER&label=Stars&style=for-the-badge&color=7f3fbf&logo=github" alt="Stars" /></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 👨🏻‍💻 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="Waving hand" /> About Me
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="260" alt="Coding animation" />
 
@@ -36,7 +38,7 @@ Watching technology 🌐 reshape everyday life in ways nobody predicted is what 
 
 <br clear="right" />
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 🚀 Featured Projects
 
@@ -45,9 +47,16 @@ Watching technology 🌐 reshape everyday life in ways nobody predicted is what 
 | 🗓️ **Attendance Booking System** *(in progress)* | Book, track and manage attendance with role-based dashboards | Next.js · TypeScript · PostgreSQL · Tailwind |
 | 🌐 **[Personal Portfolio](https://felix-ashong.vercel.app/)** | My projects, skills and experience in one place | Next.js · Tailwind CSS · Vercel |
 
+<p align="center">
+  <a href="https://github.com/FelixAshong/StudentResourceTracker-c-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelixAshong&repo=StudentResourceTracker-c-&theme=tokyonight&hide_border=true" alt="StudentResourceTracker" /></a>
+  <a href="https://github.com/FelixAshong/jobboard_platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelixAshong&repo=jobboard_platform&theme=tokyonight&hide_border=true" alt="Job board platform" /></a>
+  <a href="https://github.com/FelixAshong/ellys-ecommerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelixAshong&repo=ellys-ecommerce&theme=tokyonight&hide_border=true" alt="Elly's e-commerce" /></a>
+  <a href="https://github.com/FelixAshong/BLVCK-SAPPHIRE-FINAL-TASK"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelixAshong&repo=BLVCK-SAPPHIRE-FINAL-TASK&theme=tokyonight&hide_border=true" alt="XCUXION landing page" /></a>
+</p>
+
 > 👉 More on my [portfolio](https://felix-ashong.vercel.app/) and in my [repositories](https://github.com/FelixAshong?tab=repositories).
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 🧭 Learning Pathway
 
@@ -97,9 +106,11 @@ flowchart LR
   b2 --> o4
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 🛠️ Tech Stack
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="40" alt="Tools animation" /> Tech Stack
+
+<img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="260" alt="Night coding" />
 
 **Languages**
 
@@ -133,7 +144,9 @@ flowchart LR
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
----
+<br clear="right" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 📊 GitHub Stats
 
@@ -164,9 +177,13 @@ flowchart LR
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelixAshong&theme=tokyonight" alt="Summary stats" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelixAshong&theme=tokyonight" alt="Repos per language" />
   </p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelixAshong&theme=tokyonight" alt="Most commit language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FelixAshong&theme=tokyonight&utcOffset=0" alt="Productive time" />
+  </p>
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 🐍 Contribution Snake
 
@@ -178,17 +195,21 @@ flowchart LR
   </picture>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## ✍️ Random Dev Quote
+## ✍️ Dev Quote & Joke
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote" />
 </p>
 
----
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random dev joke" />
+</p>
 
-## 🤝 Connect With Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" alt="Connect animation" /> Connect With Me
 
 <p align="center">
   <a href="mailto:phleodelly@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -205,6 +226,8 @@ flowchart LR
 <p align="center">
   <a href="https://www.buymeacoffee.com/felixashong"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" /></a>
 </p>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon line" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f3fbf,100:0e75b6&height=120&section=footer" alt="Footer" />
