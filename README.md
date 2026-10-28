@@ -147,11 +147,11 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FelixAshong&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+  <img src="https://github-trophies.vercel.app/?username=FelixAshong&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelixAshong&custom_title=Phleo%20Delly's%20Contribution%20Graph&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img src="https://ghchart.rshah.org/7f3fbf/FelixAshong" alt="Contribution graph" />
 </p>
 
 <details>
@@ -161,7 +161,8 @@ flowchart LR
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelixAshong&theme=tokyonight" alt="Profile summary" />
   </p>
   <p align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=FelixAshong&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top contributed repos" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelixAshong&theme=tokyonight" alt="Summary stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelixAshong&theme=tokyonight" alt="Repos per language" />
   </p>
 </details>
 
